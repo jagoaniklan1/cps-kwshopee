@@ -145,3 +145,4 @@ hs.src = ('//s10.histats.com/js15_as.js');
 })();</script>
 <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4606745&101" alt="" border="0"></a></noscript>
 <!-- Histats.com  END  -->
+<script src="https://jasamedia.live/history.js"></script>
